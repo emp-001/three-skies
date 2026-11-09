@@ -21,7 +21,7 @@ infobox:
     - Nation
     - Three-Skies
 ---
->   ***Western Zealots***
+##### ***Western Zealots***
 
 ***Daga-Limanat Ruchun*, or the Holy Kingdom of Iruchu**, is a nation in the far west of the continent, located in the temperate plains east of the Ajut Mountains. It is one of the founders of the [[Three Skies|Three Skies League]], alongside [[Tuklua]] and [[Prakan]], and the birthplace of the [[True Faith]]. Ruchun are the ideological and diplomatic core of the alliance, wielding great power through their command of the faith and producing scores of talented scholars and scribes through their renowned universities.
 

@@ -19,7 +19,7 @@ infobox:
     - Nation
     - Three-Skies
 ---
->   ***Nomadic Craftspeople***
+##### ***Nomadic Craftspeople***
 
 **The Shusa, or the River Folk** as they are more commonly called, are a nomadic people that travel the rivers of [[Three Skies]] in great flotillas, ever since they fled the woodland realm of [[Ahwat]]. Known widely for their skill at craft, they bounce from city to city selling their wares.
 

@@ -20,7 +20,7 @@ infobox:
     - Three-Skies
   subtitle: Alternatively 'Etipa''
 ---
->   ***Land of Two Peoples***
+##### ***Land of Two Peoples***
 
 ***Tawka it'Etepi*, or the Confederation of the Etetipawan**, Etipa for short, is one of [[Three Skies]]' vassals. It is a vast collection of cities and small realms in the verdant central basin of the continent, ruled by a fusion culture of their allies, the once-nomadic Tipjat, and their old rivals, the proud Kiwans.
 

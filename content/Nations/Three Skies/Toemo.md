@@ -21,7 +21,7 @@ infobox:
     - Nation
     - Three-Skies
 ---
->   ***Delta Farmers***
+##### ***Delta Farmers***
 
 ***Ken Tamwa*, or the Tributary of Toemo**, is one of [[Three Skies]]' vassals. It is located to the immediate west of [[Sila]], on the fringes of [[Etetipawan|the Etetipawan]], and the Golden Plains.
 

@@ -21,7 +21,7 @@ infobox:
     - Nation
     - Three-Skies
 ---
->   ***Insular Miners***
+##### ***Insular Miners***
 
 ***Pempi Lathwa*, or the Territory of Latti,** is one of [[Three Skies]]' vassals. Once slaves of the old Kiwan Empire, they are a stubborn, insular people who supply the empire with stone and ore. In the last century, some Oymaw sea peoples have settled their lands, and a festering distrust lingers between the two, born of early atrocities.
 

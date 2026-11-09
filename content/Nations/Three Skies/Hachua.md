@@ -21,7 +21,7 @@ infobox:
     - Nation
     - Three-Skies
 ---
->   ***Upland Archers***
+##### ***Upland Archers***
 
 *This article is a stub. It may be expanded on in future.*
 

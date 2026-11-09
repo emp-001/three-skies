@@ -20,7 +20,7 @@ infobox:
   tags:
     - Nation
 ---
->   ***Gateway to the North***
+##### ***Gateway to the North***
 
 *This article is a stub. It may be expanded on in future.*
 

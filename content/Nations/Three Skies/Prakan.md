@@ -21,7 +21,7 @@ infobox:
     - Nation
     - Three-Skies
 ---
->   ***River Traders***
+##### ***River Traders***
 
 ***Tolpunom Prakanch*, or the Prakan League of Flowers**, is one of the founding members of [[Three Skies]], alongside [[Tuklua]] and [[Iruchu]]. It is an economic powerhouse with trade ports across the continent and a vast merchant navy, which makes it the financial backbone of the alliance.
 

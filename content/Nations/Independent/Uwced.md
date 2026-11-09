@@ -19,7 +19,7 @@ infobox:
     - Nation
     - Independent
 ---
->   ***Wounded Giant***
+##### ***Wounded Giant***
 
 ***Wamat Uwced*, or Empire of Uwced,** is an nation to the north and east of [[Three Skies]], and one of the largest nations on the planet. Once a beacon of prosperity and order, it is a shadow of its former self, with its blood guilds and regional magnates wielding greater power than the ruling Uwceg Brood itself.
 

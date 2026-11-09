@@ -21,7 +21,7 @@ infobox:
     - Nation
     - Three-Skies
 ---
->   ***Highland Warriors***
+##### ***Highland Farmers***
 
 ***Mak-Lamranat Tuklut,* or the High Kingdom of Tuklua**, is a nation in the west of the continent, in the foothills of the En-Chula Mountains. It is one of the founding members of the [[Three Skies]] League, alongside [[Iruchu]] and [[Prakan]], and is the military teeth of the alliance, supplying it with fierce riparines for its famous River Fleet.
 
